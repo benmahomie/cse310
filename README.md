@@ -2,7 +2,7 @@
 
 {This program will display the text "Hello world" to the terminal when run.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/a1JCV9zJ_2s)
 
 # Development Environment
 
